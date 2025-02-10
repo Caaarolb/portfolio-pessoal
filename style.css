@@ -306,9 +306,12 @@ footer .line-footer {
 footer .line-footer p i {
     color: #1a011fe5;
     font-size: 22px;
+    margin-right: 4px;
 }
 
 footer .line-footer p a {
     color: rgba(138, 58, 120, 0.699);
+    text-decoration: none; 
+    
 }
 
