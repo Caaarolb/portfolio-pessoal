@@ -160,11 +160,11 @@ section.sobre .flex {
     gap: 40px;
 }
 .sobre .txt-sobre {
-    color: #88003fbb;
+    color: #000000bb;
 }
 
 .sobre .txt-sobre h2 {
-    font-size: 40px;
+    font-size: 45px;
     line-height: 40px;
     margin-bottom: 20px;
 }
