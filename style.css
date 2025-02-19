@@ -234,7 +234,6 @@ section.topo-do-site .flex {
     font-size: 16px;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3; /* Limita o texto a 3 linhas */
     overflow: hidden;
     margin: 10px 0;
 }
